@@ -4,6 +4,7 @@ import Header from './Header'
 import Navbar from './Navbar'
 import Team from './Team'
 import Portfolio from './Portfolio'
+import Stats from './Stats'
 
 export {
     About,
@@ -11,5 +12,6 @@ export {
     Header,
     Navbar,
     Team,
-    Portfolio
+    Portfolio,
+    Stats
 }
